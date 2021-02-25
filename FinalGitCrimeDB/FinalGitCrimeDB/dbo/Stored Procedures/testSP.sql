@@ -13,4 +13,5 @@ BEGIN
 	SET NOCOUNT ON;
 
     select * from [dbo].[DIMCity]
+	Select * from DIMState
 END
